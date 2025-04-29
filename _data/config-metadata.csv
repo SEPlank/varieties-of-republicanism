@@ -3,7 +3,10 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
+coverage,Coverage,
 subject,Subjects,true
+objectid,Objectid,
+filename,Filename,
 location,Location
 latitude,Latitude
 longitude,Longitude
@@ -11,5 +14,6 @@ source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+filesize,Filesize,
 rights,Rights,
 rightsstatement,Rights Statement,,true
